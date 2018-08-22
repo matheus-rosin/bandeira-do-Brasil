@@ -7,3 +7,5 @@ Bandeira do Brasil usando apenas:
 * `JS` para inserir as 27 estrelas.
 
 Fonte usada para lema é `Work Sans`, a mais próxima encontrada.
+
+[Codepen](https://codepen.io/matheus-rosin/pen/oPgMbK)
